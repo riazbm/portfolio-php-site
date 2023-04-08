@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>hello</h1>
-    <p>welcome to my portfolio</p>
+    <p>welcome to our portfolio</p>
     <form action="">fill(must)</form>
 </body>
 </html>

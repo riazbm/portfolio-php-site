@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.css">
     <script scr="js/bootstrap.js" ></script>
-    <title>Document</title>
+    <title>Portfolio site</title>
 </head>
 <body>
     <h1>hello</h1>
